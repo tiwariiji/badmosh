@@ -1,0 +1,8 @@
+langchain
+langchain-community
+transformers
+torch
+faiss-cpu
+streamlit
+huggingface_hub
+# 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
