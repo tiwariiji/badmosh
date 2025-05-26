@@ -16,7 +16,7 @@ llm = ChatGroq(
 db = load_vector_db()
 
 # 🌐 Streamlit UI
-st.title("📄 PDF Chatbot 🤖")
+st.title("📄 Badmosh 🤖")
 query = st.text_input("Ask something from your PDF:")
 
 if query:
